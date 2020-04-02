@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ghost : GhostInterface
+public class Ghost /*: *//*GhostInterface*/
 {
     //****************
     //Private Class varibles 
@@ -19,15 +19,15 @@ public class Ghost : GhostInterface
     //****************
     //Public Class varibles
     //****************
-    public int GHOST_HEIGHT { get => this._GHOST_HEIGHT; }
-    public int GHOST_WIDTH { get => this._GHOST_WIDTH; }
-    public int X { get => this._X; }
-    public int Y { get => this._Y; }
-    public bool isAlive { get => this._isAlive; }
-    public GhostType ghostType { get => this._ghostType; }
-    public Direction characterDirection { get => this._characterDirection; }
-    public Speed speed { get => this._speed; }
-    public bool isFacingBlock { get => this._isFacingBlock; }
+    //public int GHOST_HEIGHT { get => this._GHOST_HEIGHT; }
+    //public int GHOST_WIDTH { get => this._GHOST_WIDTH; }
+    //public int X { get => this._X; }
+    //public int Y { get => this._Y; }
+    //public bool isAlive { get => this._isAlive; }
+    //public GhostType ghostType { get => this._ghostType; }
+    //public Direction characterDirection { get => this._characterDirection; }
+    //public Speed speed { get => this._speed; }
+    //public bool isFacingBlock { get => this._isFacingBlock; }
 
     //****************
     //Initializations

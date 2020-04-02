@@ -17,12 +17,12 @@ public class Dots : MonoBehaviour
     //****************
     //Public accessors
     //****************
-    public int DOT_WIDTH { get => _DOT_WIDTH; }
-    public int DOT_HEIGHT { get => _DOT_HEIGHT; }
-    public int X { get => _X; }
-    public int Y { get => _Y; }
-    public bool isSpecial { get => _isSpecial; }
-    public bool isAvailable { get => _isAvailable; }
+    //public int DOT_WIDTH { get => _DOT_WIDTH; }
+    //public int DOT_HEIGHT { get => _DOT_HEIGHT; }
+    //public int X { get => _X; }
+    //public int Y { get => _Y; }
+    //public bool isSpecial { get => _isSpecial; }
+    //public bool isAvailable { get => _isAvailable; }
 
     //****************
     //Initializer

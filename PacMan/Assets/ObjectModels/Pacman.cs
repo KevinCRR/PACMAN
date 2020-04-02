@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pacman : MonoBehaviour, GameObjectInterface
+public class Pacman /*: MonoBehaviour, GameObjectInterface*/
 {
     //****************
     //Private variable initialzations
@@ -21,17 +21,17 @@ public class Pacman : MonoBehaviour, GameObjectInterface
     //****************
     //Public varible initializations
     //****************
-    public int PACMAN_HEIGHT { get => _PACMAN_HEIGHT; }
-    public int PACMAN_WIDTH { get => _PACMAN_WIDTH; }
-    public int X { get => _X; }
-    public int Y { get => _Y; }
-    public int lives { get => _lives; }
-    public bool isAlive { get => _isAlive; }
-    public Direction characterDirection { get => _characterDirection; }
-    public Speed speed { get => _speed; }
-    public bool hasPower { get => _hasPower; }
-    public int dotsEaten { get => _dotsEaten; }
-    public bool isFacingBlock { get => _isFacingBlock; }
+    //public int PACMAN_HEIGHT { get => _PACMAN_HEIGHT; }
+    //public int PACMAN_WIDTH { get => _PACMAN_WIDTH; }
+    //public int X { get => _X; }
+    //public int Y { get => _Y; }
+    //public int lives { get => _lives; }
+    //public bool isAlive { get => _isAlive; }
+    //public Direction characterDirection { get => _characterDirection; }
+    //public Speed speed { get => _speed; }
+    //public bool hasPower { get => _hasPower; }
+    //public int dotsEaten { get => _dotsEaten; }
+    //public bool isFacingBlock { get => _isFacingBlock; }
 
 
     //****************
