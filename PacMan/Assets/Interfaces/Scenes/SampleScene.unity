@@ -4722,7 +4722,9 @@ MonoBehaviour:
   neighbours:
   - {fileID: 1617144536}
   - {fileID: 2045227355}
-  validDirections: []
+  validDirections:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
 --- !u!1001 &244924581
 Prefab:
   m_ObjectHideFlags: 0
@@ -15182,6 +15184,34 @@ Transform:
   m_PrefabParentObject: {fileID: 4213388127191962, guid: cf022a156d6ce934f96414f5ab22987e,
     type: 2}
   m_PrefabInternal: {fileID: 739307979}
+--- !u!1 &739675439
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 739675440}
+  m_Layer: 0
+  m_Name: Game
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &739675440
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 739675439}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.604101, y: -20.839203, z: 0.96484375}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &746212140
 Prefab:
   m_ObjectHideFlags: 0
@@ -38511,7 +38541,11 @@ MonoBehaviour:
   - {fileID: 1396715408}
   - {fileID: 0}
   - {fileID: 0}
-  validDirections: []
+  validDirections:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
 --- !u!1001 &1665400141
 Prefab:
   m_ObjectHideFlags: 0
@@ -40202,7 +40236,9 @@ MonoBehaviour:
   neighbours:
   - {fileID: 1838377772}
   - {fileID: 178198149}
-  validDirections: []
+  validDirections:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
 --- !u!1 &1733151227
 GameObject:
   m_ObjectHideFlags: 0
@@ -42933,7 +42969,9 @@ MonoBehaviour:
   neighbours:
   - {fileID: 851012711}
   - {fileID: 1729640718}
-  validDirections: []
+  validDirections:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
 --- !u!1 &1839502743
 GameObject:
   m_ObjectHideFlags: 0
@@ -50009,7 +50047,10 @@ MonoBehaviour:
   - {fileID: 840068375}
   - {fileID: 43241033}
   - {fileID: 851012711}
-  validDirections: []
+  validDirections:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
 --- !u!1001 &2133401527
 Prefab:
   m_ObjectHideFlags: 0
