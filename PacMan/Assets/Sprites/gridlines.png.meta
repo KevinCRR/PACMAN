@@ -1,489 +1,169 @@
 fileFormatVersion: 2
 guid: 1bcd2cf06ec0a3c45bc442769b7592c7
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: gridlines_0
-  - first:
-      213: 21300002
-    second: gridlines_1
-  - first:
-      213: 21300004
-    second: gridlines_2
-  - first:
-      213: 21300006
-    second: gridlines_3
-  - first:
-      213: 21300008
-    second: gridlines_4
-  - first:
-      213: 21300010
-    second: gridlines_5
-  - first:
-      213: 21300012
-    second: gridlines_6
-  - first:
-      213: 21300014
-    second: gridlines_7
-  - first:
-      213: 21300016
-    second: gridlines_8
-  - first:
-      213: 21300018
-    second: gridlines_9
-  - first:
-      213: 21300020
-    second: gridlines_10
-  - first:
-      213: 21300022
-    second: gridlines_11
-  - first:
-      213: 21300024
-    second: gridlines_12
-  - first:
-      213: 21300026
-    second: gridlines_13
-  - first:
-      213: 21300028
-    second: gridlines_14
-  - first:
-      213: 21300030
-    second: gridlines_15
-  - first:
-      213: 21300032
-    second: gridlines_16
-  - first:
-      213: 21300034
-    second: gridlines_17
-  - first:
-      213: 21300036
-    second: gridlines_18
-  - first:
-      213: 21300038
-    second: gridlines_19
-  - first:
-      213: 21300040
-    second: gridlines_20
-  - first:
-      213: 21300042
-    second: gridlines_21
-  - first:
-      213: 21300044
-    second: gridlines_22
-  - first:
-      213: 21300046
-    second: gridlines_23
-  - first:
-      213: 21300048
-    second: gridlines_24
-  - first:
-      213: 21300050
-    second: gridlines_25
-  - first:
-      213: 21300052
-    second: gridlines_26
-  - first:
-      213: 21300054
-    second: gridlines_27
-  - first:
-      213: 21300056
-    second: gridlines_28
-  - first:
-      213: 21300058
-    second: gridlines_29
-  - first:
-      213: 21300060
-    second: gridlines_30
-  - first:
-      213: 21300062
-    second: gridlines_31
-  - first:
-      213: 21300064
-    second: gridlines_32
-  - first:
-      213: 21300066
-    second: gridlines_33
-  - first:
-      213: 21300068
-    second: gridlines_34
-  - first:
-      213: 21300070
-    second: gridlines_35
-  - first:
-      213: 21300072
-    second: gridlines_36
-  - first:
-      213: 21300074
-    second: gridlines_37
-  - first:
-      213: 21300076
-    second: gridlines_38
-  - first:
-      213: 21300078
-    second: gridlines_39
-  - first:
-      213: 21300080
-    second: gridlines_40
-  - first:
-      213: 21300082
-    second: gridlines_41
-  - first:
-      213: 21300084
-    second: gridlines_42
-  - first:
-      213: 21300086
-    second: gridlines_43
-  - first:
-      213: 21300088
-    second: gridlines_44
-  - first:
-      213: 21300090
-    second: gridlines_45
-  - first:
-      213: 21300092
-    second: gridlines_46
-  - first:
-      213: 21300094
-    second: gridlines_47
-  - first:
-      213: 21300096
-    second: pacman-left-1
-  - first:
-      213: 21300098
-    second: pacman-up-1
-  - first:
-      213: 21300100
-    second: pacman-left-2
-  - first:
-      213: 21300102
-    second: pacman-up-2
-  - first:
-      213: 21300104
-    second: pacman-right-1
-  - first:
-      213: 21300106
-    second: pacman-down-1
-  - first:
-      213: 21300108
-    second: pacman-right-2
-  - first:
-      213: 21300110
-    second: gridlines_55
-  - first:
-      213: 21300112
-    second: gridlines_56
-  - first:
-      213: 21300114
-    second: gridlines_57
-  - first:
-      213: 21300116
-    second: gridlines_58
-  - first:
-      213: 21300118
-    second: gridlines_59
-  - first:
-      213: 21300120
-    second: gridlines_60
-  - first:
-      213: 21300122
-    second: gridlines_61
-  - first:
-      213: 21300124
-    second: gridlines_62
-  - first:
-      213: 21300126
-    second: gridlines_63
-  - first:
-      213: 21300128
-    second: gridlines_64
-  - first:
-      213: 21300130
-    second: gridlines_65
-  - first:
-      213: 21300132
-    second: gridlines_66
-  - first:
-      213: 21300134
-    second: gridlines_67
-  - first:
-      213: 21300136
-    second: gridlines_68
-  - first:
-      213: 21300138
-    second: gridlines_69
-  - first:
-      213: 21300140
-    second: frightened-ghost-white-1
-  - first:
-      213: 21300142
-    second: frightened-ghost-white-2
-  - first:
-      213: 21300144
-    second: frightened-ghost-blue-1
-  - first:
-      213: 21300146
-    second: frightened-ghost-blue-2
-  - first:
-      213: 21300148
-    second: gridlines_74
-  - first:
-      213: 21300150
-    second: gridlines_75
-  - first:
-      213: 21300152
-    second: gridlines_76
-  - first:
-      213: 21300154
-    second: gridlines_77
-  - first:
-      213: 21300156
-    second: gridlines_78
-  - first:
-      213: 21300158
-    second: gridlines_79
-  - first:
-      213: 21300160
-    second: cherry
-  - first:
-      213: 21300162
-    second: strawberry
-  - first:
-      213: 21300164
-    second: orange
-  - first:
-      213: 21300166
-    second: bell
-  - first:
-      213: 21300168
-    second: apple
-  - first:
-      213: 21300170
-    second: melon
-  - first:
-      213: 21300172
-    second: galaxian-boss
-  - first:
-      213: 21300174
-    second: key
-  - first:
-      213: 21300176
-    second: gridlines_88
-  - first:
-      213: 21300178
-    second: gridlines_89
-  - first:
-      213: 21300180
-    second: gridlines_90
-  - first:
-      213: 21300182
-    second: gridlines_91
-  - first:
-      213: 21300184
-    second: gridlines_92
-  - first:
-      213: 21300186
-    second: gridlines_93
-  - first:
-      213: 21300188
-    second: gridlines_94
-  - first:
-      213: 21300190
-    second: gridlines_95
-  - first:
-      213: 21300192
-    second: red-ghost-right-1
-  - first:
-      213: 21300194
-    second: red-ghost-right-2
-  - first:
-      213: 21300196
-    second: red-ghost-down-1
-  - first:
-      213: 21300198
-    second: red-ghost-down-2
-  - first:
-      213: 21300200
-    second: red-ghost-left-1
-  - first:
-      213: 21300202
-    second: red-ghost-left-2
-  - first:
-      213: 21300204
-    second: red-ghost-up-1
-  - first:
-      213: 21300206
-    second: red-ghost-up-2
-  - first:
-      213: 21300208
-    second: gridlines_104
-  - first:
-      213: 21300210
-    second: gridlines_105
-  - first:
-      213: 21300212
-    second: gridlines_106
-  - first:
-      213: 21300214
-    second: gridlines_107
-  - first:
-      213: 21300216
-    second: gridlines_108
-  - first:
-      213: 21300218
-    second: gridlines_109
-  - first:
-      213: 21300220
-    second: gridlines_110
-  - first:
-      213: 21300222
-    second: gridlines_111
-  - first:
-      213: 21300224
-    second: pacman-full
-  - first:
-      213: 21300226
-    second: gridlines_113
-  - first:
-      213: 21300228
-    second: gridlines_114
-  - first:
-      213: 21300230
-    second: gridlines_115
-  - first:
-      213: 21300232
-    second: pacman-dying-1
-  - first:
-      213: 21300234
-    second: pacman-dying-2
-  - first:
-      213: 21300236
-    second: pacman-dying-3
-  - first:
-      213: 21300238
-    second: pacman-dying-4
-  - first:
-      213: 21300240
-    second: pacman-dying-5
-  - first:
-      213: 21300242
-    second: pacman-dying-6
-  - first:
-      213: 21300244
-    second: pacman-dying-7
-  - first:
-      213: 21300246
-    second: pacman-dying-8
-  - first:
-      213: 21300248
-    second: pacman-dying-9
-  - first:
-      213: 21300250
-    second: pacman-dying-10
-  - first:
-      213: 21300252
-    second: pacman-dying-11
-  - first:
-      213: 21300254
-    second: pacman-dying-12
-  - first:
-      213: 21300256
-    second: pink-ghost-right-1
-  - first:
-      213: 21300258
-    second: pink-ghost-right-2
-  - first:
-      213: 21300260
-    second: pink-ghost-down-1
-  - first:
-      213: 21300262
-    second: pink-ghost-down-2
-  - first:
-      213: 21300264
-    second: pink-ghost-left-1
-  - first:
-      213: 21300266
-    second: pink-ghost-left-2
-  - first:
-      213: 21300268
-    second: pink-ghost-up-1
-  - first:
-      213: 21300270
-    second: pink-ghost-up-2
-  - first:
-      213: 21300272
-    second: blue-ghost-right-1
-  - first:
-      213: 21300274
-    second: blue-ghost-right-2
-  - first:
-      213: 21300276
-    second: blue-ghost-down-1
-  - first:
-      213: 21300278
-    second: blue-ghost-down-2
-  - first:
-      213: 21300280
-    second: blue-ghost-left-1
-  - first:
-      213: 21300282
-    second: blue-ghost-left-2
-  - first:
-      213: 21300284
-    second: blue-ghost-up-1
-  - first:
-      213: 21300286
-    second: blue-ghost-up-2
-  - first:
-      213: 21300288
-    second: orange-ghost-right-1
-  - first:
-      213: 21300290
-    second: orange-ghost-right-2
-  - first:
-      213: 21300292
-    second: orange-ghost-down-1
-  - first:
-      213: 21300294
-    second: orange-ghost-down-2
-  - first:
-      213: 21300296
-    second: orange-ghost-left-1
-  - first:
-      213: 21300298
-    second: orange-ghost-left-2
-  - first:
-      213: 21300300
-    second: orange-ghost-up-1
-  - first:
-      213: 21300302
-    second: orange-ghost-up-2
-  - first:
-      213: 21300304
-    second: invisible-ghost-right-1
-  - first:
-      213: 21300306
-    second: gridlines_153
-  - first:
-      213: 21300308
-    second: invisible-ghost-down-1
-  - first:
-      213: 21300310
-    second: gridlines_155
-  - first:
-      213: 21300312
-    second: invisible-ghost-left-1
-  - first:
-      213: 21300314
-    second: gridlines_157
-  - first:
-      213: 21300316
-    second: invisible-ghost-up-1
-  - first:
-      213: 21300318
-    second: gridlines_159
+  fileIDToRecycleName:
+    21300000: gridlines_0
+    21300002: gridlines_1
+    21300004: gridlines_2
+    21300006: gridlines_3
+    21300008: gridlines_4
+    21300010: gridlines_5
+    21300012: gridlines_6
+    21300014: gridlines_7
+    21300016: gridlines_8
+    21300018: gridlines_9
+    21300020: gridlines_10
+    21300022: gridlines_11
+    21300024: gridlines_12
+    21300026: gridlines_13
+    21300028: gridlines_14
+    21300030: gridlines_15
+    21300032: gridlines_16
+    21300034: gridlines_17
+    21300036: gridlines_18
+    21300038: gridlines_19
+    21300040: gridlines_20
+    21300042: gridlines_21
+    21300044: gridlines_22
+    21300046: gridlines_23
+    21300048: gridlines_24
+    21300050: gridlines_25
+    21300052: gridlines_26
+    21300054: gridlines_27
+    21300056: gridlines_28
+    21300058: gridlines_29
+    21300060: gridlines_30
+    21300062: gridlines_31
+    21300064: gridlines_32
+    21300066: gridlines_33
+    21300068: gridlines_34
+    21300070: gridlines_35
+    21300072: gridlines_36
+    21300074: gridlines_37
+    21300076: gridlines_38
+    21300078: gridlines_39
+    21300080: gridlines_40
+    21300082: gridlines_41
+    21300084: gridlines_42
+    21300086: gridlines_43
+    21300088: gridlines_44
+    21300090: gridlines_45
+    21300092: gridlines_46
+    21300094: gridlines_47
+    21300096: pacman-left-1
+    21300098: pacman-up-1
+    21300100: pacman-left-2
+    21300102: pacman-up-2
+    21300104: pacman-right-1
+    21300106: pacman-down-1
+    21300108: pacman-right-2
+    21300110: gridlines_55
+    21300112: gridlines_56
+    21300114: gridlines_57
+    21300116: gridlines_58
+    21300118: gridlines_59
+    21300120: gridlines_60
+    21300122: gridlines_61
+    21300124: gridlines_62
+    21300126: gridlines_63
+    21300128: gridlines_64
+    21300130: gridlines_65
+    21300132: gridlines_66
+    21300134: gridlines_67
+    21300136: gridlines_68
+    21300138: gridlines_69
+    21300140: frightened-ghost-white-1
+    21300142: frightened-ghost-white-2
+    21300144: frightened-ghost-blue-1
+    21300146: frightened-ghost-blue-2
+    21300148: gridlines_74
+    21300150: gridlines_75
+    21300152: gridlines_76
+    21300154: gridlines_77
+    21300156: gridlines_78
+    21300158: gridlines_79
+    21300160: cherry
+    21300162: strawberry
+    21300164: orange
+    21300166: bell
+    21300168: apple
+    21300170: melon
+    21300172: galaxian-boss
+    21300174: key
+    21300176: gridlines_88
+    21300178: gridlines_89
+    21300180: gridlines_90
+    21300182: gridlines_91
+    21300184: gridlines_92
+    21300186: gridlines_93
+    21300188: gridlines_94
+    21300190: gridlines_95
+    21300192: red-ghost-right-1
+    21300194: red-ghost-right-2
+    21300196: red-ghost-down-1
+    21300198: red-ghost-down-2
+    21300200: red-ghost-left-1
+    21300202: red-ghost-left-2
+    21300204: red-ghost-up-1
+    21300206: red-ghost-up-2
+    21300208: gridlines_104
+    21300210: gridlines_105
+    21300212: gridlines_106
+    21300214: gridlines_107
+    21300216: gridlines_108
+    21300218: gridlines_109
+    21300220: gridlines_110
+    21300222: gridlines_111
+    21300224: pacman-full
+    21300226: gridlines_113
+    21300228: gridlines_114
+    21300230: gridlines_115
+    21300232: pacman-dying-1
+    21300234: pacman-dying-2
+    21300236: pacman-dying-3
+    21300238: pacman-dying-4
+    21300240: pacman-dying-5
+    21300242: pacman-dying-6
+    21300244: pacman-dying-7
+    21300246: pacman-dying-8
+    21300248: pacman-dying-9
+    21300250: pacman-dying-10
+    21300252: pacman-dying-11
+    21300254: pacman-dying-12
+    21300256: pink-ghost-right-1
+    21300258: pink-ghost-right-2
+    21300260: pink-ghost-down-1
+    21300262: pink-ghost-down-2
+    21300264: pink-ghost-left-1
+    21300266: pink-ghost-left-2
+    21300268: pink-ghost-up-1
+    21300270: pink-ghost-up-2
+    21300272: blue-ghost-right-1
+    21300274: blue-ghost-right-2
+    21300276: blue-ghost-down-1
+    21300278: blue-ghost-down-2
+    21300280: blue-ghost-left-1
+    21300282: blue-ghost-left-2
+    21300284: blue-ghost-up-1
+    21300286: blue-ghost-up-2
+    21300288: orange-ghost-right-1
+    21300290: orange-ghost-right-2
+    21300292: orange-ghost-down-1
+    21300294: orange-ghost-down-2
+    21300296: orange-ghost-left-1
+    21300298: orange-ghost-left-2
+    21300300: orange-ghost-up-1
+    21300302: orange-ghost-up-2
+    21300304: invisible-ghost-right-1
+    21300306: gridlines_153
+    21300308: invisible-ghost-down-1
+    21300310: gridlines_155
+    21300312: invisible-ghost-left-1
+    21300314: gridlines_157
+    21300316: invisible-ghost-up-1
+    21300318: gridlines_159
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -501,8 +181,6 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -525,7 +203,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -533,13 +211,11 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -549,9 +225,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -561,9 +235,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
+  - buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -573,7 +245,6 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -591,13 +262,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c27408339fdb4884594a018fd5252bf4
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_1
       rect:
@@ -612,13 +276,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 97152f3e3c439f64c9f3c96630fa9163
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_2
       rect:
@@ -633,13 +290,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f5b7eb60e50e7c843a28edcefec8628c
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_3
       rect:
@@ -654,13 +304,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 22366ba9b2c2b5246be9225c61bdc5ad
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_4
       rect:
@@ -675,13 +318,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2443915d43ece5d489787b67180472b0
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_5
       rect:
@@ -696,13 +332,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7c6adaed0f4f26b4aaf604b0745f4d9f
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_6
       rect:
@@ -717,13 +346,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: adf8db3013d519b44b0c1a17955667e7
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_7
       rect:
@@ -738,13 +360,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 015ced6decf752148af3883704643fc1
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_8
       rect:
@@ -759,13 +374,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c2c479e4cbac8345aa601ce83b0ec2a
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_9
       rect:
@@ -780,13 +388,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0cfd46dfe19413d4a8d563980adea664
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_10
       rect:
@@ -801,13 +402,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3374635bcaf87046b85808169bbbb07
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_11
       rect:
@@ -822,13 +416,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 5c23e4c1d36666d40bdc422ddbb296d7
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_12
       rect:
@@ -843,13 +430,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 92d0b45b7309a404783115a0cce3f858
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_13
       rect:
@@ -864,13 +444,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8743ac1d868d1c8429e67db5c629d830
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_14
       rect:
@@ -885,13 +458,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f7caeb68444df6d458cdfc84fe372c0b
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_15
       rect:
@@ -906,13 +472,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 11ba63e5cb2b69f4483c9a1aa41b13c8
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_16
       rect:
@@ -927,13 +486,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0504d9f700e746243bd2dba9ee109bc8
-      internalID: 21300032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_17
       rect:
@@ -948,13 +500,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 5d161956593795442b317823c71340d8
-      internalID: 21300034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_18
       rect:
@@ -969,13 +514,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f648a7aced2784949a829d6c28d60805
-      internalID: 21300036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_19
       rect:
@@ -990,13 +528,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6d822818c7e0e2d4bad12052bbf2120d
-      internalID: 21300038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_20
       rect:
@@ -1011,13 +542,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: d54f7c5755d28614384cd612e476b6f8
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_21
       rect:
@@ -1032,13 +556,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 3f822efdfcf1981499b8d3caf010ce89
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_22
       rect:
@@ -1053,13 +570,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 5748986d4ccd87549a5bd30b8c9f3e24
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_23
       rect:
@@ -1074,13 +584,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8f1e7965bd5a5424f93b1088df2d7eab
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_24
       rect:
@@ -1095,13 +598,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e63873f8eed2e164794f56b892d040c8
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_25
       rect:
@@ -1116,13 +612,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 615fcd43a9f016843951b601b43d2e54
-      internalID: 21300050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_26
       rect:
@@ -1137,13 +626,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 237457048d0694e49a90f57203720256
-      internalID: 21300052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_27
       rect:
@@ -1158,13 +640,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 199c62432b0e8b345b6e3211e80d88be
-      internalID: 21300054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_28
       rect:
@@ -1179,13 +654,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 623845484c7a31b4294dbdca94fda4f8
-      internalID: 21300056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_29
       rect:
@@ -1200,13 +668,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4395848e7576c0342a366ba218628127
-      internalID: 21300058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_30
       rect:
@@ -1221,13 +682,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f88efe75d6f5d194d8631a0bd8304ec5
-      internalID: 21300060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_31
       rect:
@@ -1242,13 +696,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 30ec4465a6a271440b6e5018409620d0
-      internalID: 21300062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_32
       rect:
@@ -1263,13 +710,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ad7e6e3475bbcde4fb7da3b621987de2
-      internalID: 21300064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_33
       rect:
@@ -1284,13 +724,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 54fed62ffc528244d9dea6bf0f13fbc8
-      internalID: 21300066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_34
       rect:
@@ -1305,13 +738,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0ae0f89e3a151d84ab8a540996e41769
-      internalID: 21300068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_35
       rect:
@@ -1326,13 +752,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ac805a218df1b444b9135992a96c315c
-      internalID: 21300070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_36
       rect:
@@ -1347,13 +766,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e0be6bf117539fb40a9e83272b439ada
-      internalID: 21300072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_37
       rect:
@@ -1368,13 +780,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f2a308e58ba1dd6439e8d93aeb550f38
-      internalID: 21300074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_38
       rect:
@@ -1389,13 +794,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ed39561b3f23f43458abc2a7040cbc0a
-      internalID: 21300076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_39
       rect:
@@ -1410,13 +808,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: eda600a432243e74aade94c3d4365ea3
-      internalID: 21300078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_40
       rect:
@@ -1431,13 +822,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e09ff7ba293106b47b81c12389eaca84
-      internalID: 21300080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_41
       rect:
@@ -1452,13 +836,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 672e9825b801bbc408e0ae9e14280d03
-      internalID: 21300082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_42
       rect:
@@ -1473,13 +850,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9b88f84428700e49a52e1172c282bdb
-      internalID: 21300084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_43
       rect:
@@ -1494,13 +864,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 1a4be1fe9c5a5d24b880dae9c8ca30da
-      internalID: 21300086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_44
       rect:
@@ -1515,13 +878,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8085183a3e30b7d42a7ce4583f3d5562
-      internalID: 21300088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_45
       rect:
@@ -1536,13 +892,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4b344822433e498448e6225c33ad7a07
-      internalID: 21300090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_46
       rect:
@@ -1557,13 +906,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e9bbaea6bcbc84e42bf7cf903918ede1
-      internalID: 21300092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_47
       rect:
@@ -1578,13 +920,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 9c695f53c8c27a947832137f196b8a74
-      internalID: 21300094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-left-1
       rect:
@@ -1599,13 +934,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4fee08b373092a047a61334bd225a9f9
-      internalID: 21300096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-up-1
       rect:
@@ -1620,13 +948,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 8db34e2c66dc14e46bbdcf847644b754
-      internalID: 21300098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-left-2
       rect:
@@ -1641,13 +962,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0bf23c0f6b8edc44fa0a28e56b5f1d33
-      internalID: 21300100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-up-2
       rect:
@@ -1662,13 +976,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4cd2e41b328378a43ac54478733539df
-      internalID: 21300102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-right-1
       rect:
@@ -1683,13 +990,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6eb68c2afad9e944791379b91e1c4587
-      internalID: 21300104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-down-1
       rect:
@@ -1704,13 +1004,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e15092e0795ef534395eb8b1b8e0e91d
-      internalID: 21300106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-right-2
       rect:
@@ -1725,13 +1018,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: cfe0a05791d4f6f4283975154adcce93
-      internalID: 21300108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_55
       rect:
@@ -1746,13 +1032,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 34fafeec8f74aac4d9294ac60d2f538c
-      internalID: 21300110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_56
       rect:
@@ -1767,13 +1046,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6373b51aee8b85e469e61479264f8857
-      internalID: 21300112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_57
       rect:
@@ -1788,13 +1060,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 124901ced1752d34db131fae98af72cf
-      internalID: 21300114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_58
       rect:
@@ -1809,13 +1074,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: dcf622990b0891a4fbed699c95895962
-      internalID: 21300116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_59
       rect:
@@ -1830,13 +1088,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7e1e758638483ba43901d05e1d7e6371
-      internalID: 21300118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_60
       rect:
@@ -1851,13 +1102,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f702523b00af92842974ab3bec34bd2d
-      internalID: 21300120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_61
       rect:
@@ -1872,13 +1116,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: afd5e0e6b15dff648af4c2b4ac0fcee0
-      internalID: 21300122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_62
       rect:
@@ -1893,13 +1130,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 3ee10ee6be4bec6438c10ea284053239
-      internalID: 21300124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_63
       rect:
@@ -1914,13 +1144,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e38cbe8d946be59498479c19aec12487
-      internalID: 21300126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_64
       rect:
@@ -1935,13 +1158,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 63076b437511a8c49ad15e8686a74be9
-      internalID: 21300128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_65
       rect:
@@ -1956,13 +1172,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6afab829a9e6f0a40bf5f3313b5fa280
-      internalID: 21300130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_66
       rect:
@@ -1977,13 +1186,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 1863e0343be3e7d408c44fb5e7f2c047
-      internalID: 21300132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_67
       rect:
@@ -1998,13 +1200,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 72b36da404227574eb2096d5462ed6d9
-      internalID: 21300134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_68
       rect:
@@ -2019,13 +1214,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a0a8554becd62c94ea4596c5e709ea8d
-      internalID: 21300136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_69
       rect:
@@ -2040,13 +1228,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 57146b0327bb5a143b266478d6a26cae
-      internalID: 21300138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: frightened-ghost-white-1
       rect:
@@ -2061,13 +1242,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2ed4ff5cf40130f429d8fbe4b51dca67
-      internalID: 21300140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: frightened-ghost-white-2
       rect:
@@ -2082,13 +1256,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c89e061b59359e14487f42fd1118303b
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: frightened-ghost-blue-1
       rect:
@@ -2103,13 +1270,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7ecf891e818365e4da8a2ea4ae2fbbb1
-      internalID: 21300144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: frightened-ghost-blue-2
       rect:
@@ -2124,13 +1284,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: d1a317dd1baa29e49a35975fca50a155
-      internalID: 21300146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_74
       rect:
@@ -2145,13 +1298,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e4ed87101d5e9674aafc51af009f0b8d
-      internalID: 21300148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_75
       rect:
@@ -2166,13 +1312,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a9e4a486e57b0614094e49c01c93e501
-      internalID: 21300150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_76
       rect:
@@ -2187,13 +1326,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: b5a41c568c715a64d9657b7e333d76e6
-      internalID: 21300152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_77
       rect:
@@ -2208,13 +1340,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: fa20ff5468eada74ab6586d5d9c956b3
-      internalID: 21300154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_78
       rect:
@@ -2229,13 +1354,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f40d18c70c81582479430d058ef0bd40
-      internalID: 21300156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_79
       rect:
@@ -2250,13 +1368,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5741a0eba58f724d88e7124713d6f4e
-      internalID: 21300158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: cherry
       rect:
@@ -2271,13 +1382,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7ef221aa05773154788ba940845803f2
-      internalID: 21300160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: strawberry
       rect:
@@ -2292,13 +1396,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 969cb29cb1c99304589c4a48af64b362
-      internalID: 21300162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange
       rect:
@@ -2313,13 +1410,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4e446ec19a833724aa04aeee5dd92de4
-      internalID: 21300164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: bell
       rect:
@@ -2334,13 +1424,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 871c48a92bc19c1489cf103f8e5dd249
-      internalID: 21300166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: apple
       rect:
@@ -2355,13 +1438,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7b7b7c5b35a4e764fb0d0152b1148bfd
-      internalID: 21300168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: melon
       rect:
@@ -2376,13 +1452,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d9a501fe13adb345aeffcde1ec98745
-      internalID: 21300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: galaxian-boss
       rect:
@@ -2397,13 +1466,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 1d7e8da78a3657a46b01568e110f66e8
-      internalID: 21300172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: key
       rect:
@@ -2418,13 +1480,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: c2e267a6e996a5647b7c12b9d2fa2f51
-      internalID: 21300174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_88
       rect:
@@ -2439,13 +1494,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 634d318f1b9d10b49a719f0f5f9c9177
-      internalID: 21300176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_89
       rect:
@@ -2460,13 +1508,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: d13af6cb83e0875439b225731d8ddd2e
-      internalID: 21300178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_90
       rect:
@@ -2481,13 +1522,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6415628338fa3ce439a39f309b849737
-      internalID: 21300180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_91
       rect:
@@ -2502,13 +1536,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6a6cc4f8f52754647afb00d85867ae9e
-      internalID: 21300182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_92
       rect:
@@ -2523,13 +1550,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: fd4f7a37f51479247ba3d6c63e0023da
-      internalID: 21300184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_93
       rect:
@@ -2544,13 +1564,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: bb185eae8dac98e47be3a1a0124a1204
-      internalID: 21300186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_94
       rect:
@@ -2565,13 +1578,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 077922c1fb25ef44ca48d929e18f1f02
-      internalID: 21300188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_95
       rect:
@@ -2586,13 +1592,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6821f6805a5ab544690fd7bc9309e57f
-      internalID: 21300190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-right-1
       rect:
@@ -2607,13 +1606,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 678a4bbb964e8ec40b57d1110932c56e
-      internalID: 21300192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-right-2
       rect:
@@ -2628,13 +1620,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c69317d17ba0b3438af51ac1b8421f7
-      internalID: 21300194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-down-1
       rect:
@@ -2649,13 +1634,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2c338f6a49d2bed498ed6843a9206d4a
-      internalID: 21300196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-down-2
       rect:
@@ -2670,13 +1648,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f37ba33aa7e39d74daa9dadcda297929
-      internalID: 21300198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-left-1
       rect:
@@ -2691,13 +1662,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 34800b09189c124469365074dfd900f9
-      internalID: 21300200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-left-2
       rect:
@@ -2712,13 +1676,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 396349d45aa464d4bb6793e42f6c37c0
-      internalID: 21300202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-up-1
       rect:
@@ -2733,13 +1690,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6cfb9cde09b476343bed2a42561387b7
-      internalID: 21300204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: red-ghost-up-2
       rect:
@@ -2754,13 +1704,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a3f0bdf8b94e20046a55c81c17b06cd3
-      internalID: 21300206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_104
       rect:
@@ -2775,13 +1718,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ba4a6892d9dd72c42845ed6640152b10
-      internalID: 21300208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_105
       rect:
@@ -2796,13 +1732,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 07ab4cb9204d54842aacb508616374c2
-      internalID: 21300210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_106
       rect:
@@ -2817,13 +1746,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 93196582c012ea544b1dcc92c09b4374
-      internalID: 21300212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_107
       rect:
@@ -2838,13 +1760,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 5324f935a9934354e8c7d5446874513a
-      internalID: 21300214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_108
       rect:
@@ -2859,13 +1774,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f9b356c5ae9d2254c918ad5364ac53af
-      internalID: 21300216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_109
       rect:
@@ -2880,13 +1788,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: b1b91c6d5deb963489744fd78fb2a03e
-      internalID: 21300218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_110
       rect:
@@ -2901,13 +1802,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ba621288717254847ad8180190ccefff
-      internalID: 21300220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_111
       rect:
@@ -2922,13 +1816,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 21540f3be0b405743a14804cd9a3110a
-      internalID: 21300222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-full
       rect:
@@ -2943,13 +1830,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 12ba008a11191d949bd63f942701f0ac
-      internalID: 21300224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_113
       rect:
@@ -2964,13 +1844,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f77cf82cf125f274e9403d3c91c374c1
-      internalID: 21300226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_114
       rect:
@@ -2985,13 +1858,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6521f37f4c96e0e45856f64d9b11f9f1
-      internalID: 21300228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_115
       rect:
@@ -3006,13 +1872,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: bfc902f4fd2d7ab45bbd613d11be9a87
-      internalID: 21300230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-1
       rect:
@@ -3027,13 +1886,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 1eb339add9179864396e1979c26ff2f2
-      internalID: 21300232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-2
       rect:
@@ -3048,13 +1900,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 44db63c3d392215478836667c119a84c
-      internalID: 21300234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-3
       rect:
@@ -3069,13 +1914,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 50aac3726c9f80846a11502046cebe6f
-      internalID: 21300236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-4
       rect:
@@ -3090,13 +1928,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: aba195d78c446304498505d4d568d28a
-      internalID: 21300238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-5
       rect:
@@ -3111,13 +1942,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 997b3e41e75ac2d40a7fd8c049d78ab3
-      internalID: 21300240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-6
       rect:
@@ -3132,13 +1956,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 670148083c634924bab2ea3fe8a25ac8
-      internalID: 21300242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-7
       rect:
@@ -3153,13 +1970,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 5154ea38e4c09b24e8c4d6779f8841b6
-      internalID: 21300244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-8
       rect:
@@ -3174,13 +1984,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: e18ebfad7768752478a778c75d79b3ae
-      internalID: 21300246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-9
       rect:
@@ -3195,13 +1998,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a7806268b09d5354aba1ca9ea81c6a44
-      internalID: 21300248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-10
       rect:
@@ -3216,13 +2012,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7b64e7370868c70489c1c411f7129c63
-      internalID: 21300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-11
       rect:
@@ -3237,13 +2026,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: d17dc23c935ede9428e7cac7d3142f4a
-      internalID: 21300252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pacman-dying-12
       rect:
@@ -3258,13 +2040,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 15d55a48d6ae76a4182f974c3324655a
-      internalID: 21300254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-right-1
       rect:
@@ -3279,13 +2054,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6baa2a5ee43966844b7c20ddae4abe27
-      internalID: 21300256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-right-2
       rect:
@@ -3300,13 +2068,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: fe0329bc165ad4540b87b4e45b6d223f
-      internalID: 21300258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-down-1
       rect:
@@ -3321,13 +2082,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 271cb9d7dd1b3c04a93cda7282b0ca76
-      internalID: 21300260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-down-2
       rect:
@@ -3342,13 +2096,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: df7a854c340b4a2498a65d13ba841c68
-      internalID: 21300262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-left-1
       rect:
@@ -3363,13 +2110,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a105d087d0b23484eaac6cfce3fd9229
-      internalID: 21300264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-left-2
       rect:
@@ -3384,13 +2124,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 432573cd80a76b7489abef891392e747
-      internalID: 21300266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-up-1
       rect:
@@ -3405,13 +2138,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 5cc9965e9d7320345a2b7b351bb3f85b
-      internalID: 21300268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pink-ghost-up-2
       rect:
@@ -3426,13 +2152,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7c567994a8445da4db7784928dc8c157
-      internalID: 21300270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-right-1
       rect:
@@ -3447,13 +2166,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 3d143a330377f8c4f9e2613be42a69ac
-      internalID: 21300272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-right-2
       rect:
@@ -3468,13 +2180,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7e60e990ffce6df40bf1aee97699e272
-      internalID: 21300274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-down-1
       rect:
@@ -3489,13 +2194,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 2d6b0a273f400504cb6945bd909bcbbd
-      internalID: 21300276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-down-2
       rect:
@@ -3510,13 +2208,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 210da8318782a4e4d86785e735ae5bc1
-      internalID: 21300278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-left-1
       rect:
@@ -3531,13 +2222,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ffc67efc5a76ed743928946fa50cddc2
-      internalID: 21300280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-left-2
       rect:
@@ -3552,13 +2236,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 51d317112f4dd3d4c8ce626a47f51a40
-      internalID: 21300282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-up-1
       rect:
@@ -3573,13 +2250,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: f497070f57d7406409c14cb6eda8ec0b
-      internalID: 21300284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: blue-ghost-up-2
       rect:
@@ -3594,13 +2264,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: b5bd100067a94864c807e6e381200b2c
-      internalID: 21300286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-right-1
       rect:
@@ -3615,13 +2278,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 1ef18142424e90c4ca6b053dcad67c50
-      internalID: 21300288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-right-2
       rect:
@@ -3636,13 +2292,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6439c164b4c2fb846955e6c302af8852
-      internalID: 21300290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-down-1
       rect:
@@ -3657,13 +2306,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 3d12fa36b076e7641a7ce3ae6e472a90
-      internalID: 21300292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-down-2
       rect:
@@ -3678,13 +2320,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7e5c377a90b70a7478bd807575032f82
-      internalID: 21300294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-left-1
       rect:
@@ -3699,13 +2334,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: b14485ee5f4db834e8162f765cf0a12c
-      internalID: 21300296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-left-2
       rect:
@@ -3720,13 +2348,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 185438f2f968a544db5bc2f3bd433d75
-      internalID: 21300298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-up-1
       rect:
@@ -3741,13 +2362,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 67ee8825a97e95a44a66db39288558ac
-      internalID: 21300300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: orange-ghost-up-2
       rect:
@@ -3762,13 +2376,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 82fbf809cf5a3d448b0d8989d4a55bd1
-      internalID: 21300302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: invisible-ghost-right-1
       rect:
@@ -3783,13 +2390,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: b7e0ab59358c26d4a8e8fcdd1c4e97e9
-      internalID: 21300304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_153
       rect:
@@ -3804,13 +2404,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 56f1d0a0e9c8ea14e87d6c21e0815c96
-      internalID: 21300306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: invisible-ghost-down-1
       rect:
@@ -3825,13 +2418,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 80859b4446123814dbe6602a500cf897
-      internalID: 21300308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_155
       rect:
@@ -3846,13 +2432,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ba5ce7886a93beb4f962cb066c8ad33c
-      internalID: 21300310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: invisible-ghost-left-1
       rect:
@@ -3867,13 +2446,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 11ccf01bcf3d60a41a07234b9cfeea9e
-      internalID: 21300312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_157
       rect:
@@ -3888,13 +2460,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: d660930ce34db8047902d98976a4beb4
-      internalID: 21300314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: invisible-ghost-up-1
       rect:
@@ -3909,13 +2474,6 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 611ad393cdbbffd48ae869e8e7c495eb
-      internalID: 21300316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: gridlines_159
       rect:
@@ -3930,26 +2488,9 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 88505c5723fb73d40912453972936840
-      internalID: 21300318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
-    bones: []
-    spriteID: 4a7344305d043ed4f8c9f9ef55e2556e
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
   spritePackingTag: 
-  pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

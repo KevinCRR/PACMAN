@@ -8,10 +8,12 @@ public class Movement : MonoBehaviour
     public float pacmanSpeed = 4.0f;
 
     private Vector2 pacmanDirection = Vector2.zero;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        transform.localPosition = new Vector3(13, -22.5f,1);
+
     }
 
     // Update is called once per frame
@@ -23,28 +25,29 @@ public class Movement : MonoBehaviour
         UpdateOrientation();
         Debug.Log(transform.position.x);
 
-        if (transform.position.x >= 11f)
+        if (transform.position.x >= 27f)
         {
-            transform.localPosition = new Vector3(-11.0f, transform.position.y, 0.0f);
+            transform.localPosition = new Vector3(-0.4f, transform.position.y, -0.0f);
         }
-        else if(transform.position.x <= -11f)
+        else if(transform.position.x <= -0.5f)
         {
-            transform.localPosition = new Vector3(11.0f, transform.position.y, 0.0f);
+            transform.localPosition = new Vector3(26.5f, transform.position.y, -0.0f);
         }
 
-        if (transform.position.y >= 6.5f)
+        if (transform.position.y >= 1f)
         {
-            transform.localPosition = new Vector3(transform.position.x, -6.5f,  0.0f);
+            transform.localPosition = new Vector3(transform.position.x, -30f,  0.0f);
         }
-        else if (transform.position.y <= -6.5f)
+        else if (transform.position.y <= -31f)
         {
-            transform.localPosition = new Vector3(transform.position.x, 6.5f,  0.0f);
+            transform.localPosition = new Vector3(transform.position.x, 1f,  0.0f);
         }
         Move();
 
         
     }
 
+    // Check the current player's input
     void CheckInput() { 
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
@@ -63,6 +66,8 @@ public class Movement : MonoBehaviour
             pacmanDirection = Vector2.up;
         }
     }
+
+    //
     void Move()
     {
         transform.localPosition += (Vector3)(pacmanDirection * pacmanSpeed) * Time.deltaTime;
