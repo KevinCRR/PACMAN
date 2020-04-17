@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\C# Scripts\ButtonControl.cs" />
      <Compile Include="Assets\C# Scripts\GhostMove.cs" />
      <Compile Include="Assets\C# Scripts\Labels.cs" />
      <Compile Include="Assets\C# Scripts\Managers\GameManager.cs" />

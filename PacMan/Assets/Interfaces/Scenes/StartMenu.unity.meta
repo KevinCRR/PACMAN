@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:PacMan/Assets/C# Scripts/Managers.meta
-guid: c07a96780417e40a1807ad2cdbfef75b
-folderAsset: yes
-=======
-guid: 163b0e8216959c240815ddef5d619db3
-timeCreated: 1587148124
-licenseType: Free
->>>>>>> 5250b4b651972f26486671cffad3c6ba5ac495c3:PacMan/Assets/Interfaces/Scenes/StartMenu.unity.meta
+guid: 59e152e2e89404bca97e6bf7bff1f454
 DefaultImporter:
   externalObjects: {}
   userData: 
